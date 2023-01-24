@@ -1,2 +1,2 @@
 # Devblog-tutorial
-A simple web page using HTML and CSS
+How to create a simple web page using HTML and CSS
